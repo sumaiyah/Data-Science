@@ -6,4 +6,4 @@ Python practicals that cover the core areas of Data Science (eg. models for regr
 - `Practical 3`: **Cassification II (Scikit-Learn)** An overview of other classification techniques (e.g., decision trees, SVMs) and more advanced techniques including ensemble-based models (boosting, bagging, exemplified with AdaBoost and Random Forests)
 - `Practical 4`: **Deep Learning I (TensorFlow)** Neural networks, applications in the world, optimization, stochastic gradient descent, backpropagation, learning rates. Introduction to TensorFlow, minimal TensorFlow example, symbolic graphs, training a network, practical tips for deep learning
 - `Practical 5`: **Deep Learning II (TensorFlow)** Convolutional networks, RNNs, LSTMs, autoencoders, regularization
-- `Practical 6`: Visualization Scales and coordinates, depicting comparisons. Common plotting patterns, including dimension reduction
+- `Practical 6`: **Visualization** Scales and coordinates, depicting comparisons. Common plotting patterns, including dimension reduction
